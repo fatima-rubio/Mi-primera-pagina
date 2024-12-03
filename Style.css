@@ -1,0 +1,70 @@
+/* Color de pagina */
+body {
+    background: #fcfcfc;
+    font-family: Libre Baskerville;
+    font-size: 16.5px;
+}
+
+.Maquiladora {
+    height: 300px;
+    border-radius: 10px;
+}
+
+.lol {
+    height: 300px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Cuidados {
+    background-color: #fcfcfc;
+    font-size: 16px;
+    color: black;
+}
+
+.barra {
+    justify-content: center;
+    flex-direction: row;
+    font-size: 20px;
+    background-color: black;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 20px;
+}
+
+.homenav{
+    text-decoration: none;
+    color: #fcfcfc;
+    justify-content: center;
+}
+
+.requirementsnav{
+    text-decoration: none;
+    color: #fcfcfc;
+    justify-content: center;
+}
+
+.benefitsnav{
+    text-decoration: none;
+    color: #fcfcfc;
+    justify-content: center;
+}
+
+.governmentnav{
+    text-decoration: none;
+        color: #fcfcfc;
+        justify-content: center;
+}
+
+.Manufacturing {
+    text-align: justify;
+    line-height: 1.428571429;
+    box-sizing: border-box;
+}
+
+.Imagenes {
+    text-align: center;
+}
